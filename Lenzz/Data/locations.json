@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "张三",
+    "image": "person1",
+    "latitude": 38.876665,
+    "longitude": 121.527034
+  },
+  {
+    "id": 2,
+    "name": "王书",
+    "image": "person2",
+    "latitude": 38.889126,
+    "longitude": 121.511499
+  },
+  {
+    "id": 3,
+    "name": "牛夕家",
+    "image": "person3",
+    "latitude": 38.882887,
+    "longitude": 121.584015
+  },
+  {
+    "id": 4,
+    "name": "欣无发",
+    "image": "person4",
+    "latitude": 38.903451,
+    "longitude": 121.585049
+  },
+  {
+    "id": 5,
+    "name": "张六角",
+    "image": "person5",
+    "latitude": 38.910222,
+    "longitude": 121.638693
+  },
+  {
+    "id": 6,
+    "name": "刘正",
+    "image": "person6",
+    "latitude": 38.915751,
+    "longitude": 121.685478
+  }
+]
